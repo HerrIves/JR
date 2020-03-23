@@ -1,3 +1,5 @@
-# JR
+# Java
+Hello World! My First Repository
+________________________________
 JavaRush tasks
-Hello World!
+
