@@ -1,3 +1,3 @@
 # JR
-JR
+JavaRush tasks
 Hello World!
